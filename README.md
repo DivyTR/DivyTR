@@ -1,4 +1,4 @@
-### Hi 👋 I'm Divyansh Tripathi
+### <p style="text-align: center;">Hi 👋 I'm Divyansh Tripathi</p>
 # 💫 About Me:
 - I'm a 3rd-year Computer Science Engineering Student at Manipal University Jaipur, a cyber security enthusiast, and an aspiring security analyst
 - I'm currently working on the project parking slot mapping with license plate detection.
