@@ -17,7 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DivyTR&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/DivyTR/DivyTR/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--
